@@ -1,0 +1,1 @@
+& c:/users/user/appdata/local/microsoft/windowsapps/python3.12.exe c:/users/user/documents/lib/__pycache__/system.py
